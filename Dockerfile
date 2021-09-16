@@ -1,6 +1,6 @@
 FROM nginx:alpine
 
-LABEL maintainer="Aderemi Adesada <adesadaaderemi@gmail.com>"
+LABEL maintainer="Mathieu Bouzard <mathieu.bouzard@gmail.com>"
 
 USER root
 
